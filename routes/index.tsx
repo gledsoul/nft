@@ -1,5 +1,5 @@
 
-import * as web3  from "npm:@solana/web3.js";
+import * as web3  from "@solana/web3.js";
 
 console.log(web3);
 
